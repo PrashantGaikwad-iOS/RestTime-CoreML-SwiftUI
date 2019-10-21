@@ -1,3 +1,3 @@
 # RestTime-CoreML-SwiftUI
 
-![Optional Text](../developer/BetterRest.png)
+![Optional Text](../master/BetterRest.png)
